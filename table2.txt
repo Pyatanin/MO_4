@@ -1,0 +1,4 @@
+iter:10
+fCalcCount= 6959 |x-x*| = 15.0124
+fCalcCount= 502 |x-x*| = 0.00134934
+fCalcCount= 20599 |x-x*| = 9.21798
